@@ -1,0 +1,15 @@
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\bin\Debug\Task-2.exe.config
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\bin\Debug\Task-2.exe
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\bin\Debug\Task-2.pdb
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\obj\Debug\Task-2.csproj.AssemblyReference.cache
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\obj\Debug\Task-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\obj\Debug\Task-2.csproj.CoreCompileInputs.cache
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\obj\Debug\Task-2.exe
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\obj\Debug\Task-2.pdb
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\bin\Debug\EntityFramework.dll
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\bin\Debug\XPression.dll
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\bin\Debug\XPression.LinqToEntities.dll
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\bin\Debug\EntityFramework.xml
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olena\OneDrive\Рабочий стол\Task-2\Task-2\Task-2\obj\Debug\Task-2.csproj.CopyComplete
